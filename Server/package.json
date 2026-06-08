@@ -1,0 +1,12 @@
+{
+  "name": "socketio-demo-server",
+  "version": "1.0.0",
+  "description": "Socket.IO demo server for Unity client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
